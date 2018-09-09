@@ -1,0 +1,3 @@
+moyenne : Inf 
+ sigma : NaN 
+ mediane : 21 

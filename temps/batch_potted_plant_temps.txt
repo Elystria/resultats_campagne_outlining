@@ -1,0 +1,3 @@
+moyenne : 1.972690e+01 
+ sigma : 1.160209e+01 
+ mediane : 18 
